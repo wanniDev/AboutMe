@@ -1,5 +1,6 @@
 # AboutMe
 - visit here : https://wanni0928.github.io/wannistudio_prototype/
+- 독서 리스트 : https://tremendous-pilot-5fa.notion.site/47585c4079b54818b4ae5d992d937621
 ## Introduction
 - Name : 최형중
 - Email : wannidev0928@gmail
