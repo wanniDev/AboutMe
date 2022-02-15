@@ -17,5 +17,5 @@
 ### DoubleShop
 - E-commerce 기반 웹 서비스 프로젝트
     - 기간 : 21.09.02 ~
-    - notion 링크 : https://www.notion.so/Double-2a108b56d18b4a31982145f030dc4343
+    - notion 링크 : https://tremendous-pilot-5fa.notion.site/Double-2a108b56d18b4a31982145f030dc4343
     - 계속 진행중인 프로젝트라, 내용이 업데이트 될 수도 있습니다.
